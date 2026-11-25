@@ -1,1 +1,236 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pranali Waghe | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <header>
+        <h2 class="logo">Pranali.</h2>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#achievement">Achievements</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section class="home" id="home">
+
+        <div class="home-content">
+            <h1>Hi, I'm <span>Pranali Waghe</span></h1>
+
+            <h3>Engineering Student | Web Developer | Python Programmer</h3>
+
+            <p>
+                I am Pranali Waghe, an enthusiastic student interested
+                in technology, programming and web development.
+                I enjoy learning new skills, exploring creative ideas
+                and developing projects that solve real-world problems.
+                I am continuously improving my knowledge and technical skills.
+            </p>
+
+            <a href="#projects" class="btn">See My Projects</a>
+        </div>
+
+        <div class="home-image">
+            <!-- Replace with your own photo -->
+            <img src="your-photo.jpg" alt="Pranali Waghe">
+        </div>
+
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+
+        <h2>About Me</h2>
+
+        <div class="about-content">
+
+            <p>
+                Hello! I am Pranali Waghe, a student passionate about
+                technology and software development.
+            </p>
+
+            <p>
+                I am interested in learning programming languages,
+                creating websites and exploring new technologies.
+                I enjoy solving problems and turning creative ideas
+                into practical projects.
+            </p>
+
+            <p>
+                I believe in continuous learning and improving my
+                technical skills. I enjoy working on new ideas and
+                learning from every project I create.
+            </p>
+
+            <p>
+                My goal is to become a skilled software developer
+                and contribute to projects that make a positive
+                difference in people's lives.
+            </p>
+
+            <div class="details">
+
+                <div class="detail-box">
+                    <strong>College:</strong>
+                    <p>Your College Name</p>
+                </div>
+
+                <div class="detail-box">
+                    <strong>Degree:</strong>
+                    <p>Your Degree</p>
+                </div>
+
+                <div class="detail-box">
+                    <strong>Location:</strong>
+                    <p>Your City, Maharashtra</p>
+                </div>
+
+                <div class="detail-box">
+                    <strong>Interests:</strong>
+                    <p>Web Development, Python, AI</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="skills-section" id="skills">
+
+        <h2>My Skills</h2>
+
+        <div class="skills-container">
+            <div class="skill">HTML</div>
+            <div class="skill">CSS</div>
+            <div class="skill">JavaScript</div>
+            <div class="skill">Python</div>
+            <div class="skill">GitHub</div>
+            <div class="skill">Web Development</div>
+        </div>
+
+    </section>
+
+    <!-- Projects Section -->
+    <section class="projects" id="projects">
+
+        <h2>My Projects</h2>
+
+        <div class="projects-container">
+
+            <div class="project-card">
+                <h3>LocalPrice</h3>
+
+                <p>
+                    A local price comparison website concept that helps
+                    customers compare grocery prices from different
+                    local stores.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>Airport Ride Sharing</h3>
+
+                <p>
+                    A ride-sharing website concept that connects
+                    travellers going towards similar destinations
+                    from an airport.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>Personal Portfolio</h3>
+
+                <p>
+                    A personal portfolio website created using
+                    HTML and CSS to showcase my skills, projects
+                    and achievements.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Achievements Section -->
+    <section class="achievement" id="achievement">
+
+        <h2>Achievements</h2>
+
+        <div class="achievement-content">
+
+            <h3>My Learning Journey</h3>
+
+            <p>
+                I am continuously learning new technologies,
+                improving my programming skills and working
+                on projects to gain practical experience.
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+
+        <h2>Contact Me</h2>
+
+        <div class="contact-content">
+
+            <p>
+                Feel free to contact me for project collaborations,
+                learning opportunities and technology discussions.
+                I would love to connect and share ideas.
+            </p>
+
+            <p>
+                <strong>Email:</strong>
+                <a href="mailto:pranaliwaghe001@gmail.com">
+                    pranaliwaghe001@gmail.com
+                </a>
+            </p>
+
+            <p>
+                <strong>Phone:</strong>
+                <a href="tel:9370952090">9370952090</a>
+            </p>
+
+            <p>
+                <strong>GitHub:</strong>
+                <a href="https://github.com/PRANALIWAGHE"
+                   target="_blank" rel="noopener noreferrer">
+                    My GitHub Profile
+                </a>
+            </p>
+
+            <p>
+                <strong>LinkedIn:</strong>
+                <a href="https://www.linkedin.com/in/pranali-waghe-11042343a/"
+                   target="_blank" rel="noopener noreferrer">
+                    My LinkedIn Profile
+                </a>
+            </p>
+
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Pranali Waghe | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
+
